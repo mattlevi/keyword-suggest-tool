@@ -24,6 +24,6 @@ jquery 3x
 alpine.js
 
 ## Demo 
-Working Demo of Main branch can be tested here https://sutlej.net/seo-tools/keyword-suggest/
+Working Demo of Main branch can be tested here [https://sutlej.net/seo-tools/keyword-suggest/](https://sightaround.com)
 
 send me a cup of tea/coffee if you like the tool and it made your life a little easier.
